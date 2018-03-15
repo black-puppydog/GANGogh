@@ -1,4 +1,6 @@
-# GANGogh
+# GANGogh: Creating Art with GANs
+
+This is the code producing the results discussed in [our blog post](https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1).
 
 Note: Code heavily inspired and built off of the improved wasserstein GAN training code available and found at: https://github.com/igul222/improved_wgan_training
 
